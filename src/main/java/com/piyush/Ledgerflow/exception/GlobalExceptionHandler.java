@@ -1,7 +1,6 @@
 package com.piyush.Ledgerflow.exception;
 
-
-import com.piyush.ledgerflow.dto.response.ErrorResponse;
+import com.piyush.Ledgerflow.dto.request.response.ErrorResponse;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.MethodArgumentNotValidException;
